@@ -1,5 +1,6 @@
 body{
     background-color: blue;
+    font-weight: 600;
 }
 .container{
     border: 1px solid aqua;
@@ -7,4 +8,8 @@ body{
 }
 h1{
     text-align: center;
+    color: blue;
+    text-decoration: underline;
+    font-style: oblique;
+
 }
