@@ -1,12 +1,12 @@
-body{
+body {
     background-color: blue;
     font-weight: 600;
 }
-.container{
+.container {
     border: 1px solid aqua;
     background: linear-gradient(to top left, #ff99cc 21%, #ccffff 67%);
 }
-h1{
+h1 {
     text-align: center;
     color: blue;
     text-decoration: underline;
