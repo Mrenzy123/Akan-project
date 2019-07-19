@@ -11,5 +11,12 @@ h1{
     color: blue;
     text-decoration: underline;
     font-style: oblique;
-
+}
+.chckit {
+    border: 1px dotted linear-gradient(to top left, #ff99cc 21%, #ccffff 67%);
+    background-color: blue;
+    color: #ccffff;
+    font-size: 40px;
+    font-style: oblique;
+    border-radius: 12%;
 }
