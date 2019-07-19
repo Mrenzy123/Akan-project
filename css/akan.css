@@ -1,6 +1,10 @@
 body{
     background-color: blue;
 }
+.container{
+    border: 1px solid aqua;
+    background: linear-gradient(to top left, #ff99cc 21%, #ccffff 67%);
+}
 h1{
     text-align: center;
 }
